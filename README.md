@@ -7,7 +7,7 @@
 <h4 align="center">
 💡 Currently Learning: Numerical Analysis & Algorithms</h4>
 <h4 align="center">
-📖 Currently Reading: How to Think Like a Programmer - No Starch Press</h4>
+📖 Currently Reading: Think Like a Programmer - No Starch Press</h4>
 <h4 align="center">
 ⚡ Fun Fact: The best way to do something in Python, is to do it in C++</h4>
 <br>
