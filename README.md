@@ -9,7 +9,7 @@
 <h4 align="center">
 📖 Currently Reading: Think Like a Programmer - No Starch Press</h4>
 <h4 align="center">
-⚡ Fun Fact: The best way to do something in Python, is to do it in C++</h4>
+⚡ Fun Fact: The fastest way to do something in Python, is to do it in C/C++</h4>
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
