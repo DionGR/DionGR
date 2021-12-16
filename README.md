@@ -5,9 +5,9 @@
 <br>
 
 <h4 align="center">
-💡 Currently Learning: Numerical Analysis & Algorithms</h4>
+💡 Currently Learning: Algorithms, C++ and Numerical Analysis</h4>
 <h4 align="center">
-📖 Currently Reading: Think Like a Programmer - No Starch Press</h4>
+📖 Currently Reading: Algorithms - Robert Sedgewick</h4>
 <h4 align="center">
 ⚡ Fun Fact: The fastest way to do something in Python, is to do it in C/C++</h4>
 <br>
