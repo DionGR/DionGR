@@ -8,8 +8,6 @@
 💡 Currently Learning: Algorithms, C++ and Numerical Analysis</h4>
 <h4 align="center">
 📖 Currently Reading: Algorithms - Robert Sedgewick</h4>
-<h4 align="center">
-⚡ Fun Fact: The fastest way to do something in Python, is to do it in C/C++</h4>
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
