@@ -5,9 +5,9 @@
 <br>
 
 <h4 align="center">
-💡 Currently Learning: Algorithms, C++ and Numerical Analysis</h4>
+💡 Currently Studying: Algorithms, Operating Systems, DBMS & Theory of Computation</h4>
 <h4 align="center">
-📖 Currently Reading: Algorithms - Robert Sedgewick</h4>
+📖 Currently Reading: Intro to Algorithms - CLRS | Theory of Computation - Michael Sipser | Operating System Concepts - Avi Silberschatz</h4>
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
