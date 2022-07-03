@@ -5,7 +5,7 @@
 <br>
 
 <h4 align="center">
-💡 Currently Studying: Discrete Mathematics, Calculus, Probability Theory and Linear Algebra</h4>
+💡 Currently Studying: Discrete Mathematics, Calculus, Probability Theory and Linear Algebra (Math revision summer!)</h4>
 <h4 align="center">
 📖 Currently Reading: Discrete Mathematics with Applications - Susanna Epp</h4>
 <br>
