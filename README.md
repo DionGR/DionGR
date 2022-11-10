@@ -5,7 +5,7 @@
 <br>
 
 <h4 align="center">
-💡 Currently Studying: Artificial Intelligence, Statistics, First Order Logic and Communication Networks</h4>
+💡 Currently Studying: Artificial Intelligence, Statistics, Logic and Communication Networks</h4>
 <h4 align="center">
 📖 Currently Reading: Artifical Intelligence - A Modern Approach (R&N) & Forall X - An Introduction to Formal Logic</h4>
 <br>
