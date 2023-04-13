@@ -5,7 +5,7 @@
 <br>
 
 <h4 align="center">
-💡 Currently Studying: Deep Learning, Distributed Systems, DBMS and Parallel Programming</h4>
+💡 Currently Studying: Deep Learning, Distributed Systems, Parallel Programming, Big Data Management Systems & Digital Signal Processing</h4>
 <h4 align="center">
 📖 Research Interests: Deep Learning, Computer Vision and Algorithms</h4>
 <br>
