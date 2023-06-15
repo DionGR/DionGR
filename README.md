@@ -6,6 +6,7 @@
 
 <h4 align="center">
 💻 Software Development Engineer Intern @ Amazon Luxembourg 💻</h4>
+
 <h4 align="center">
 💡 Currently Studying: Deep Learning, Distributed Systems, Parallel Programming, Big Data Management Systems & Linear Algebra for Data Science</h4>
 <h4 align="center">
