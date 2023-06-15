@@ -1,11 +1,9 @@
 <h1 align="center"> 👨‍💻About Me👨‍💻 </h1>
 <h3 align="center">Dion - 21 Y/O - Greece</h3>
 <h3 align="center">Undergraduate - Computer Science @ AUEB</h3>
+<h3 align="center">Software Development Engineer Intern @ Amazon Luxembourg</h3>
 <h3 align="center"><a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a> <a href="https://www.dept.aueb.gr/en/cs"><img alt="Athens University of Economics and Business - Computer Science" src="https://img.shields.io/badge/AUEB-computer--science-bd173d"></a></h3>
 <br>
-
-<h4 align="center">
-💻 Software Development Engineer Intern @ Amazon Luxembourg 💻</h4>
 
 <h4 align="center">
 💡 Currently Studying: Deep Learning, Distributed Systems, Parallel Programming, Big Data Management Systems & Linear Algebra for Data Science</h4>
