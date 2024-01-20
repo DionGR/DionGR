@@ -1,7 +1,7 @@
 <h1 align="center"> 👨‍💻About Me👨‍💻 </h1>
 <h3 align="center">Dion - 21 Y/O - Greece</h3>
 <h3 align="center">Undergraduate - Computer Science @ AUEB</h3>
-<h3 align="center">Currently Exchanging @ NTNU CS || (Upcoming) Summer 2024 Software Development Engineer Intern @ AWS Lambda in Dublin </h3>
+<h3 align="center">Currently Exchanging @ NTNU CS || (Ex & Upcoming) SDE Intern @ Amazon </h3>
 <h3 align="center"><a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a> <a href="https://www.dept.aueb.gr/en/cs"><img alt="Athens University of Economics and Business - Computer Science" src="https://img.shields.io/badge/AUEB-computer--science-bd173d"></a></h3>
 <br>
 
