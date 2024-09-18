@@ -1,14 +1,14 @@
 <h1 align="center"> 👨‍💻About Me👨‍💻 </h1>
 <h3 align="center">Dion - 22 Y/O - Greece</h3>
 <h3 align="center">Undergraduate - Computer Science @ AUEB</h3>
-<h3 align="center">Currently Exchanging @ NTNU CS || (Ex & Upcoming) SDE Intern @ Amazon </h3>
+<h3 align="center">SDE Intern @ AWS Lambda </h3>
 <h3 align="center"><a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a> <a href="https://www.dept.aueb.gr/en/cs"><img alt="Athens University of Economics and Business - Computer Science" src="https://img.shields.io/badge/AUEB-computer--science-bd173d"></a></h3>
 <br>
 
 <h4 align="center">
-💡 Currently Studying: Natural Language Processing, Computer Vision, Numerical Methods & Software Architecture</h4>
+💡 Currently Studying: Designing Data Intensive Applications, Effective Java</h4>
 <h4 align="center">
-📖 Research Interests: Deep Learning, Computer Vision and Algorithms</h4>
+📖 Research Interests: Deep Learning for Computer Vision</h4>
 <br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html#Identifiers" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.learncpp.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="r" width="40" height="40"/> </a> <a href="https://java-programming.mooc.fi" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
