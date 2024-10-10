@@ -16,5 +16,5 @@
  <a href="https://www.linkedin.com/in/dion-rigatos/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" /></a></p>
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diongr&show_icons=true&locale=en&layout=compact&theme=darcula&hide=jupyter,html" alt="diongr" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diongr&show_icons=true&locale=en&layout=compact&theme=darcula&hide=jupyter%20notebook,html" alt="diongr" /></p>
 
