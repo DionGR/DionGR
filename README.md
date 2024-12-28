@@ -8,7 +8,7 @@
 <h4 align="center">
 💡 Currently Reading: Designing Data Intensive Applications, Nand2Tetris & Effective Java</h4>
 <h4 align="center">
-⛷️ Other Interests: Hiking, skiing & ocassionally gaming</h4>
+⛷️ Other Interests: Hiking, Skiing & Gaming</h4>
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
