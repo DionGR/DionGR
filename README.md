@@ -6,7 +6,7 @@
 <br>
 
 <h4 align="center">
-💡 Currently Reading: Designing Data Intensive Applications, Nand2Tetris & Effective Java</h4>
+💡 Currently Studying: Devops with Docker, Learn Go w/ Testing and Clean Code</h4>
 <h4 align="center">
 ⛷️ Other Interests: Hiking, Skiing & Gaming</h4>
 <br>
