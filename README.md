@@ -1,7 +1,7 @@
 <h1 align="center"> 👨‍💻About Me👨‍💻 </h1>
-<h3 align="center">Dion - 23 Y/O - Greece</h3>
+<h3 align="center">Dion - 4 Y/O - Greece</h3>
 <h3 align="center">Graduate - Computer Science @ AUEB</h3>
-<h3 align="center">Upcoming New Grad Software Dev Engineer @ AWS Lambda </h3>
+<h3 align="center">Software Dev Engineer @ AWS Lambda </h3>
 <h3 align="center"><a href="https://www.dept.aueb.gr/en/cs"><img alt="Athens University of Economics and Business - Computer Science" src="https://img.shields.io/badge/AUEB-computer--science-bd173d"></a></h3>
 <br>
 
